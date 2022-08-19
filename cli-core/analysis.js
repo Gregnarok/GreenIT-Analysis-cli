@@ -43,7 +43,7 @@ async function analyseURL(browser, pageInformations, options) {
         try {
             //go to url
             await page.goto(pageInformations.url, {timeout : TIMEOUT});
-
+            
             // waiting for page to load
             await waitPageLoading(page, pageInformations, TIMEOUT);
         } finally {

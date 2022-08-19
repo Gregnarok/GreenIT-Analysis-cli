@@ -22,7 +22,7 @@
     "exceljs": "^4.2.0",
     "glob": "^7.1.6",
     "progress": "^2.0.3",
-    "puppeteer": "^5.5.0",
+    "puppeteer": "^16.1.0",
     "puppeteer-har": "^1.1.2",
     "sitemapper": "^3.1.12",
     "thymeleaf": "^0.20.5",
